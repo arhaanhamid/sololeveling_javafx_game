@@ -1,0 +1,54 @@
+.root{
+	-fx-background-color: black;
+	-fx-background-image:url("./menubg01.png");
+	-fx-background-repeat:repeat;
+	-fx-background-size : stretch;
+}
+
+.button{
+	-fx-text-fill : white;
+	-fx-font-weight:bold;
+	-fx-font-size:20px;
+	-fx-background-color: rgba(128, 128, 128, 0.5);
+	-fx-font-family: "Papyrus", Times New Roman, Times, serif;
+	-fx-border-color: rgba(60, 60, 60, 1);
+	
+	/* -fx-cursor:hand ; */
+	 }
+	 
+.button:hover {
+  -fx-background-color: rgba(60, 60, 60, 1);
+
+  }
+
+
+.label{
+	-fx-text-fill : white;
+	-fx-font-weight:bold;
+	-fx-font-size:20px;
+	-fx-font-family: "Papyrus", Times New Roman, Times, serif;	
+	-fx-effect: dropshadow(three-pass-box, red, 50, 0.6, 0, 0);
+}
+
+.text-field{
+	-fx-background-color: rgba(0, 0, 0, 0.5);
+	-fx-border-color: rgba(60, 60, 60, 0);	
+	-fx-text-fill : white;
+	-fx-font-weight:bold;
+	-fx-font-size:20px;
+	-fx-font-family: "Papyrus", Times New Roman, Times, serif;	
+	-fx-effect: dropshadow(gaussian, silver, 10, 0.5, 0, 0);
+}
+
+.text-field:hover, .check-box:hover, .slider:hover, .button:hover {
+  -fx-effect: dropshadow(gaussian, blue, 15, 0.5, 0, 0);
+  
+  }
+
+#controls, #sound{
+	-fx-text-fill : white;
+	-fx-font-weight:bold;
+	-fx-font-size:25px;
+	-fx-font-family: "Papyrus", Times New Roman, Times, serif;	
+	-fx-effect: dropshadow(three-pass-box, red, 60, 0.8, 0, 0);	
+}
