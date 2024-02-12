@@ -1,12 +1,34 @@
-# sololeveling_2D_JavaFX_Game
-A simple yet complex top-Down view, 2D action-arcade game developed using Core Java and JavaFX Framework.
-This was a College Project, it's not deployment ready, nor am I going to work on this anytime sooner.
-You can use and modify it however you see fit but mostly LEARN from it.
+# SOLOLEVELING
 
-How To:
-Last I modified this project was on VSCode, but you can use any IDE, although I prefer VSCode.
-Download the required extensions and required Maven Dependencies which you'll get notified about when you execute code once.
+## Preview
+Download executable file from my Google Drive: https://drive.google.com/file/d/1eEiX6wPdxLWpZzJjW4ZjYYiutmZpJ9SO/view?usp=drive_link
+Download size might be a bit much, as I made this 3+ years ago and didn't bundle it properly.
 
-If still you were unable to execute this masterpiece, contact me,
-Get my contact info from my profile.
-have fun learning!
+## Description
+Welcome to my World of Solo Leveling! This project showcases my skills in Java and JavaFX which i honed during my 6th Semester Project Work. This is top-Down view, 2D action-arcade game. It's designed to provide a glimpse into my technical expertise and creativity. And most of all I LOVE GAMES, so I wanted to build one since forever.
+
+## Why?
+As I stated before, I loved games and wanted to become a Game Developer, well, that's a long way for now, but is a start.
+
+## Quick Start
+
+Follow these steps to get a copy of the project up and running on your local machine.
+
+1. **Clone the repository:**  
+   git clone https://github.com/your-username/duo-leveling.git
+   
+3. **Navigate to the project folder:**  
+   cd duo-leveling
+   
+5. **Install dependencies:**  
+   Install all the neccessary dependencies like JDK, JavaFX and whatever is asks is missing when you try to run it.
+   
+4.**Run the App:**  
+   Run the Main.java file and have fun.
+   
+
+## Usage
+Feel free to use this project however you like and if it helps, good. Customize the content, update the styling, and make it your own. Don't forget to replace the sample information with your details.
+
+## Contributing
+If you find any issues, have suggestions, or would like to contribute, please feel free to open an issue or create a pull request. Your feedback and contributions are highly appreciated!
