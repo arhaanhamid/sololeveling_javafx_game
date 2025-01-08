@@ -15,7 +15,7 @@ As I stated before, I loved games and wanted to become a Game Developer, well, t
 Follow these steps to get a copy of the project up and running on your local machine.
 
 1. **Clone the repository:**  
-   git clone https://github.com/your-username/duo-leveling.git
+   git clone [https://github.com/your-username/duo-leveling.git](https://github.com/arhaanhamid/sololeveling_javafx_game.git)
    
 3. **Navigate to the project folder:**  
    cd duo-leveling
